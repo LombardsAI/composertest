@@ -1,4 +1,5 @@
 {
+	"name":"shangwei/firstcomposer",
 	"autoload":{
 
 		"psr-4":{
